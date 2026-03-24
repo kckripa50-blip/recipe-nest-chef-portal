@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "xHB2fpOctEhncMLWk//QVY4aKBBUVN6Hn+5v2RGVqOA=",
+  "Source": "RecipeNest.Backend",
+  "BasePath": "_content/RecipeNest.Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RecipeNest.Backend\\wwwroot",
+      "Source": "RecipeNest.Backend",
+      "ContentRoot": "F:\\Kripa\\RecipeNest\\backend\\wwwroot\\",
+      "BasePath": "_content/RecipeNest.Backend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
